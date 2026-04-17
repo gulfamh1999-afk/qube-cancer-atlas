@@ -121,7 +121,7 @@ class QubeEngine:
 def get_ibm_backend():
     import os
 
-    IBM_TOKEN = os.getenv("IBM_TOKEN")
+    IBM_TOKEN = os.getenv("IBM_QUANTUM_TOKEN")
 
     if IBM_TOKEN is None:
         raise ValueError("❌ IBM_TOKEN not set. Please set it using environment variables.")
