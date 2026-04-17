@@ -104,9 +104,12 @@ These datasets provide gene expression profiles and drug response (IC50) measure
 
 ## 📄 Associated Publication
 
-**Quantum Kernel-Based Cancer Atlas: Hardware-Validated Mapping of Gene Expression to Drug Response**
+If you use or reference this work, please cite:
 
-(Upload PDF in `/paper` directory)
+> Hussain, G. (2026). *Quantum Kernel-Based Cancer Atlas: Hardware-Validated Mapping of Gene Expression to Drug Response*. Zenodo.  
+https://doi.org/10.5281/zenodo.19633728
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19633728.svg)](https://doi.org/10.5281/zenodo.19633728)
 
 ---
 
