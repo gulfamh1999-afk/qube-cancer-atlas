@@ -109,3 +109,11 @@ These datasets provide gene expression profiles and drug response (IC50) measure
 (Upload PDF in `/paper` directory)
 
 ---
+
+## 📜 License
+
+MIT License — free to use, modify, and build upon. 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software.
+
+Attribution to the original author is appreciated.
