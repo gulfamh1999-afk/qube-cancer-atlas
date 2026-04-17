@@ -5,3 +5,6 @@
 
 ## Note
 GDSC file is included to preserve exact mapping used in hardware validation.
+
+# Run pipeline
+python qube_cancer_atlas.py
