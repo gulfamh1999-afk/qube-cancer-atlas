@@ -118,6 +118,8 @@ The underlying algorithmic logic, specific ansatz architecture, and quantum-clas
 
 © 2026 Gulfam Hussain. Licensed under MIT (Community) / Proprietary (Enterprise).
 
+---
+
 ## 🔓 Licensing
 This software is dual-licensed:
 
