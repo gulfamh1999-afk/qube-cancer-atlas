@@ -114,7 +114,7 @@ https://doi.org/10.5281/zenodo.19633728
 ---
 
 ## ⚖️ Intellectual Property & Copyright
-The underlying algorithmic logic, specific ansatz architecture, and quantum-classical hybrid optimization strategies contained within this repository are the original intellectual property of the author and are formally registered with the United States Copyright Office. 
+The underlying algorithmic logic, specific ansatz architecture, quantum-classical hybrid optimization strategies and root expression contained within this repository are the original intellectual property of the author and are formally registered with the United States Copyright Office. 
 
 © 2026 Gulfam Hussain. Licensed under MIT (Community) / Proprietary (Enterprise).
 
